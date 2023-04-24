@@ -1,0 +1,58 @@
+.pinguinos {
+    background-image: url(/img/pinguinos.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: 88% auto;
+    height: 55em;
+    width: 70em;
+    margin-top: -6em;
+    margin-left: 15em;
+}
+.tabla {
+    border: 0.16em solid rgba(0, 0, 0, 0.26);
+    background-color: #BDC1A2;
+    position: absolute;
+    z-index: 1;
+    height: 3.2em;
+    width: 50em;
+    margin-top: 20.5em;
+    margin-left: 10em;
+    box-shadow: 2px 2px 0px 0px rgba(0,0,0,1);
+}
+.fila1 {
+    background-color: white;
+    height: 1.3em;
+    width: 49.67em;
+    margin-top: 0.032em;
+    margin-left: 0.04em;
+    border: 0.16em #a09d99 solid;
+}
+.text1{
+    margin-left: 21.5em;
+    margin-top: 0.1em;
+}
+.fila2 {
+    background-color: #feff99;
+    height: 1.27em;
+    width: 24.8em;
+    margin-left: -0.1em;
+    margin-top: 0.25em;
+    border: #a09d99 solid 0.16em;
+}
+.text2{
+    margin-left: 11em;
+    margin-top: 0.1em;
+}
+.fila3 {
+    background-color: #feff99;
+    height: 1.25em;
+    width: 24.5em;
+    margin-left: 25em;
+    margin-top: -1.5em;
+    border: #a09d99 solid 0.16em;
+}
+.text3{
+    margin-left: 11em;
+    margin-top: 0.1em;
+}
